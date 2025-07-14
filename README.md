@@ -1,2 +1,2 @@
-# TheSummariser
-A summariser app which can summarise youtube videoes
+# TheSummarizer
+A summarizer app which can summarise youtube videos
